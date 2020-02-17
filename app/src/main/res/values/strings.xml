@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TruthTable</string>
+    <string name="conjunction">Conjunction (AND)</string>
+    <string name="T">T</string>
+    <string name="F">F</string>
+    <string name="submit">Check answer</string>
+    <string name="TorF">T or F</string>
+    <string name="a">A</string>
+    <string name="a_b">A ^ B</string>
+    <string name="b">B</string>
+    <string name="answerMessage">The number of correct answers is: %d</string>
+    <string name="errorMessage">Fill in all the fields to show how many are correct!</string>
+</resources>
